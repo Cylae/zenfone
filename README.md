@@ -9,7 +9,7 @@
 #### How it works ?
 
 ```git clone```  
-```create cron tasks```
-```mkdir /var/www/zenfone```
-```mkdir /var/www/zenfone/Z00A```
-```mkdir /var/www/zenfone/Z008```
+```create cron tasks```  
+```mkdir /var/www/zenfone```  
+```mkdir /var/www/zenfone/Z00A```  
+```mkdir /var/www/zenfone/Z008```  
